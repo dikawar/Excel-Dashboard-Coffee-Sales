@@ -33,6 +33,7 @@ I create new columns in **Product Columns** use Xlookup and Vlookup
 
 Then i create New Sheet using Pivot Tablels to 
 | **New Sheet** |
+| --- |
 | Total Sales |
 | Sales by Country |
 | Top 5 Customer |
