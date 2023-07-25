@@ -14,10 +14,9 @@ Company Coffee who have data Product, Customers, and Order want a report Sales D
 |               | Country          | Profit |
 |               | Postcode         | |
 |               | Loyalty Card     | |
-Card
-I create new columns in **Product Columns** use Xlookup and Vlookup 
 
-| **Product Columns** |
+I create new columns in **Product Columns** use Xlookup and Vlookup 
+| **New Product Columns** |
 | --- |
 | Customer Name |
 | Email |
