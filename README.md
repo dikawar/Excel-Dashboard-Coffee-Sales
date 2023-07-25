@@ -15,6 +15,7 @@ Company Coffee who have data Product, Customers, and Order want a report Sales D
 |               | Postcode         | |
 |               | Loyalty Card     | |
 
+
 I create new columns in **Product Columns** use Xlookup and Vlookup 
 | **New Product Columns** |
 | --- |
@@ -29,6 +30,15 @@ I create new columns in **Product Columns** use Xlookup and Vlookup
 | Coffee Type Name |
 | Roast Type Name |
 | Loyalty Card |
+
+Then i create New Sheet using Pivot Tablels to 
+| **New Sheet** |
+| Total Sales |
+| Sales by Country |
+| Top 5 Customer |
+
+Next step i create the data visualization dashboard in the new Sheet (**Dashboard**) from the new sheet using Pivot Table Anlyst and Design 
+
 
 
 
