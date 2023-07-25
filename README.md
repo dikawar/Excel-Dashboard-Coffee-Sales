@@ -38,7 +38,9 @@ Then i create New Sheet using Pivot Tablels to
 | Sales by Country |
 | Top 5 Customer |
 
-Next step i create the data visualization dashboard in the new Sheet (**Dashboard**) from the new sheet using Pivot Table Anlyst and Design 
+Next step i create the data visualization dashboard in the new Sheet (**Dashboard**) from the new sheet using Pivot Table Anlyst and Design
+I create slicer timeline. i create slicer with Rost Type Name, Size and Loyalty card.
+and for visualization i create Line chart to see total Sales, and bar chart to see Salest by country and Top 5 customers
 
 
 
